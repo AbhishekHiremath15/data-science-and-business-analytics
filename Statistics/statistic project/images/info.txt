@@ -1,0 +1,21 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1581 entries, 0 to 1580
+Data columns (total 14 columns):
+ #   Column            Non-Null Count  Dtype  
+---  ------            --------------  -----  
+ 0   Age               1581 non-null   int64  
+ 1   Gender            1528 non-null   object 
+ 2   Profession        1581 non-null   object 
+ 3   Marital_status    1581 non-null   object 
+ 4   Education         1581 non-null   object 
+ 5   No_of_Dependents  1581 non-null   int64  
+ 6   Personal_loan     1581 non-null   object 
+ 7   House_loan        1581 non-null   object 
+ 8   Partner_working   1581 non-null   object 
+ 9   Salary            1581 non-null   int64  
+ 10  Partner_salary    1475 non-null   float64
+ 11  Total_salary      1581 non-null   int64  
+ 12  Price             1581 non-null   int64  
+ 13  Make              1581 non-null   object 
+dtypes: float64(1), int64(5), object(8)
+memory usage: 173.1+ KB
